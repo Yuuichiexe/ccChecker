@@ -4,7 +4,7 @@
 
 function bot($method,$datas=[]){
 
-    $botToken = '5933751138:AAELd2GHcQdWXJLWI67NZ6gczjGitAbE8Cw';
+    $botToken = '6795385534:AAGMtxd_We4Iv9yK-w5HvJ2HSNIydFVccYc';
 
     $url = "https://api.telegram.org/bot".$botToken."/".$method;
 
