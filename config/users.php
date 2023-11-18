@@ -1,7 +1,7 @@
 <?php
 
-$auchats = array('-1001980420281');
-$owner = '5596215906';
+$auchats = array('-1001542184389');
+$owner = '6058139652';
 $preusers = array();
 
 if($userId == '504392428'){
